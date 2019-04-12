@@ -27,6 +27,6 @@ alert( format( "#,##0.####", 1234567.890)); //output: 1,234,567.89
 When there's only one symbol is supplied, system will always treat the single symbol as Decimal. For instance, ```format( '#,###', 1234567.890)``` will output 1234567,890. To force a single symbol as Separator, add a trailing dot to the end like this: ```format( '#,###.', 1234567.890)``` which will then output 1,234,567.
 
 ###INFO
-You may see some [examples in this demo/sample page](http://www.integraxor.com/developer/codes/js-formatter/format-sample.htm). This code was originally developed in Ecava IGX WEB [SCADA](http://www.integraxor.com/), if you know what's SCADA then you may be interested to [download a copy](http://www.integraxor.com/download-igx.html) to see this peace of code performs in real life application.
+You may see some [examples in this demo/sample page](https://www.integraxor.com/developer/codes/js-formatter/format-sample.htm). This code was originally developed in Ecava IGX WEB [SCADA](https://www.integraxor.com/), if you know what's SCADA then you may be interested to [download a copy](https://www.integraxor.com/download-scada/) to see this peace of code performs in real life application.
 
 
